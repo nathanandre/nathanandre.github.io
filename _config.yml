@@ -1,11 +1,11 @@
 # Site settings
-author: Nathan Burns
-title: 
+author: Nathan Burns 
+title: Life With Code 
 header-img: img/home-bg.png
 email: nathanandreburns@gmail.com
-copyright_name: Nathan Burns
+copyright_name: Nathan Burns 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Experiences Learning To Code 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nathanandre
